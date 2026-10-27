@@ -7,5 +7,5 @@ window.SITE_CONFIG = {
   "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeLvCh3le1nMiEKzTlFiDH3EJjBLvdDEQxhSeNr94EPak-0lA/viewform?usp=publish-editor",
   "webhookUrl": "https://tahern22.app.n8n.cloud/webhook/HRChat",
   "botName": "Flow Assistant",
-  "welcome": "Hi! Ask me anything and I'll pass it to the workflow."
+  "welcome": "Hi! Ask me anything and I'll answer you."
 };
